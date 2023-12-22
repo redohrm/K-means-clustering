@@ -2,9 +2,6 @@
 
 # PROGRAMMER: Ruth Dohrmann
 # PROGRAM: kmeans.py
-# DUE DATE: 12/8/23
-# COURSE: Intro Artificial Intelligence (CSCI-4350-001)
-# INSTRUCTOR: Dr. Joshua Phillips
 # 
 # Description: This program performs K-means clustering on labeled classification data.
 # The progam calculates a K-means clustering of a provided set of input training data,
